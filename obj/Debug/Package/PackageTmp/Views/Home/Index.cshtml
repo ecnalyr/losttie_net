@@ -1,0 +1,95 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    ViewBag.Description = "Put a description of the page's title here";
+}
+
+<section id="features-slider" class="ss-slider">
+
+    <article class="slide">
+        <img src="@Url.Content("~/Content/img/images/platforms.png")" alt="" class="slide-bg-image" />
+        <div class="slide-button">
+			<span class="dropcap">1</span>
+			<h5>Support all modern browsers</h5>
+	    	<span class="description"></span>
+		</div>
+        <div class="slide-content">
+			<h2>Support all modern browsers</h2>
+			<p>Lost Tie has developers with up-to-date knowledge on how to produce web site and web apps for all modern platforms utilizing. . .</p>
+			<p>@Html.ActionLink("Read More", "ModernTech", "Home", null, new { @class = "button" })</p>
+		</div>
+    </article><!-- end .slide -->
+
+    <article class="slide">
+        <img src="@Url.Content("~/Content/img/images/calendar.png")" alt="" class="slide-bg-image" />
+        <div class="slide-button">
+			<span class="dropcap">2</span>
+			<h5>jQuery</h5>
+	    	<span class="description"></span>
+		</div>
+        <div class="slide-content">
+			<!--<h2>jQuery</h2>
+			<p>Using jQuery, we are able to produce websites that are as appealing as they are functional.</p>-->
+			<p>@Html.ActionLink("Read More", "jQuery", "Home", null, new { @class = "button" })</p>
+		</div>
+    </article><!-- end .slide -->
+
+    <article class="slide">
+        <img src="@Url.Content("~/Content/img/images/phone.png")" alt="" class="slide-bg-image" />
+        <div class="slide-button">
+			<span class="dropcap">3</span>
+			<h5>Responsive Design</h5>
+	    	<span class="description"></span>
+		</div>
+        <div class="slide-content">
+			<h2>Responsive Layout</h2>
+			<p>Responsive web-design allows your web site to be viewable on smartphones as well as desktop computers without having a separate site. . .</p>
+			<p>@Html.ActionLink("Read More", "ResponsiveDesign", "Home", null, new { @class = "button" })</p>
+		</div>
+    </article><!-- end .slide -->
+
+    <article class="slide">
+        <img src="@Url.Content("~/Content/img/images/asp2.png")" alt="" class="slide-bg-image" />
+        <div class="slide-button">
+			<span class="dropcap">4</span>
+			<h5>Application Development</h5>
+	    	<span class="description"></span>
+		</div>
+        <div class="slide-content">
+			<h2>Application Development</h2>
+			<p>We build more than just web sites here at Lost Tie.  We build applications ranging from a tool to keep track of employee time clock info to . . .</p>
+			<p>@Html.ActionLink("Read More", "AppDevelopment", "Home", null, new { @class = "button" })</p>
+		</div>
+    </article><!-- end .slide -->
+
+</section>
+
+	<!--<div class="slider-wrapper theme-default">
+	        <div class="ribbon"></div>
+			<div id="slider" class="nivoSlider">
+	    		<img src="http://placehold.it/960x350/4D99E0/ffffff.png&text=960x350" alt="" />
+	    		<img src="http://placehold.it/960x350/75CC00/ffffff.png&text=960x350" alt="" title="#htmlcaption" />
+	    		<img src="http://placehold.it/960x350/E49800/ffffff.png&text=960x350" alt="" title="This is an example of a caption" />
+			</div>
+	</div>
+	<div id="htmlcaption" class="nivo-html-caption">
+	    <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+	</div>-->
+
+<div class="one-third">
+    <h4>First third of page</h4>
+    <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed consectetur suscipit nunc et rutrum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed tetur suscipit nunc et rutrum.
+    </p>
+</div>
+<div class="one-third">
+    <p>
+        To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+    </p>
+</div>
+<div class="one-third last">
+    <h4>Last third of page</h4>
+     <p>
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum.</p>
+<p>Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed consectetur suscipit nunc et rutrum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed justo varius velit imperdiet bibendum. Vivamus nec sapien massa, a imperdiet diam. Aliquam erat volutpat. Sed tetur suscipit nunc et rutrum.
+     </p>
+</div>

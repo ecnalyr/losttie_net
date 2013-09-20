@@ -1,0 +1,32 @@
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\bin\losttie.dll
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\bin\losttie.pdb
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\bin\EntityFramework.dll
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\bin\EntityFramework.xml
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\obj\Debug\ResolveAssemblyReference.cache
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\obj\Debug\losttie.dll
+l:\users\jason\documents\visual studio 2010\Projects\losttie\losttie\obj\Debug\losttie.pdb
+L:\Users\Jason\documents\visual studio 2010\Projects\losttie\losttie\bin\System.Web.Mvc.dll
+L:\Users\Jason\documents\visual studio 2010\Projects\losttie\losttie\bin\System.Web.Routing.dll
+L:\Users\Jason\documents\visual studio 2010\Projects\losttie\losttie\bin\System.Web.Services.dll
+L:\Users\Jason\documents\visual studio 2010\Projects\losttie\losttie\bin\System.Web.Mvc.xml
+Z:\Dropbox\losttie\losttie\bin\losttie.dll
+Z:\Dropbox\losttie\losttie\bin\losttie.pdb
+Z:\Dropbox\losttie\losttie\bin\EntityFramework.dll
+Z:\Dropbox\losttie\losttie\bin\System.Web.Mvc.dll
+Z:\Dropbox\losttie\losttie\bin\System.Web.Routing.dll
+Z:\Dropbox\losttie\losttie\bin\System.Web.Services.dll
+Z:\Dropbox\losttie\losttie\bin\EntityFramework.xml
+Z:\Dropbox\losttie\losttie\bin\System.Web.Mvc.xml
+Z:\Dropbox\losttie\losttie\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\losttie\losttie\obj\Debug\losttie.dll
+Z:\Dropbox\losttie\losttie\obj\Debug\losttie.pdb
+C:\Users\Administrator\Desktop\losttie\bin\losttie.dll
+C:\Users\Administrator\Desktop\losttie\bin\losttie.pdb
+C:\Users\Administrator\Desktop\losttie\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\losttie\bin\System.Web.Routing.dll
+C:\Users\Administrator\Desktop\losttie\bin\System.Web.Services.dll
+C:\Users\Administrator\Desktop\losttie\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\losttie\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\losttie\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\losttie\obj\Debug\losttie.dll
+C:\Users\Administrator\Desktop\losttie\obj\Debug\losttie.pdb

@@ -1,0 +1,11 @@
+Z:\Dropbox\losttie\losttie\bin\losttie.dll
+Z:\Dropbox\losttie\losttie\bin\losttie.pdb
+Z:\Dropbox\losttie\losttie\bin\EntityFramework.dll
+Z:\Dropbox\losttie\losttie\bin\System.Web.Mvc.dll
+Z:\Dropbox\losttie\losttie\bin\System.Web.Routing.dll
+Z:\Dropbox\losttie\losttie\bin\System.Web.Services.dll
+Z:\Dropbox\losttie\losttie\bin\EntityFramework.xml
+Z:\Dropbox\losttie\losttie\bin\System.Web.Mvc.xml
+Z:\Dropbox\losttie\losttie\obj\Release\ResolveAssemblyReference.cache
+Z:\Dropbox\losttie\losttie\obj\Release\losttie.dll
+Z:\Dropbox\losttie\losttie\obj\Release\losttie.pdb
